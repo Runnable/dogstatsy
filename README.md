@@ -1,3 +1,5 @@
+# This isn't being actively maintained, you may be better off using: [node-dogstatsd](https://www.npmjs.com/package/node-dogstatsd)
+
 # dogstatsy
 
   A simple DogStatsD client.
